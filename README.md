@@ -1,4 +1,4 @@
-# PilotNet arhitecture for Self Driving Vehicle inside a game
+# PilotNet architecture for Self Driving Vehicle inside a game
 
 ![Poster](https://raw.githubusercontent.com/aryarohit07/PilotNetSelfDrivingCar/master/poster.jpg)
 
