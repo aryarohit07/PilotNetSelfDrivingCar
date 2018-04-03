@@ -1,4 +1,4 @@
-# PilotNet architecture for Self Driving Vehicle inside a game
+# Convolutional Neural Network to steer a vehicle inside a game
 
 [READ BLOG FOR EXPLANTION](https://towardsdatascience.com/convolutional-neural-network-to-steer-a-vehicle-inside-a-game-2aab41a5ef60)
 
